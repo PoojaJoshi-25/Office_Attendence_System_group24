@@ -1,1 +1,1 @@
-Project for VINOVE SOFTWARE.
+Project for VINOVE SOFTWARE
